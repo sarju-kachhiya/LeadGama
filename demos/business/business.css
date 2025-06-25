@@ -19,7 +19,7 @@ body {
 }
 /* header */
 header .navbar-brand img {
-    max-height: 26px;
+    max-height: 46px;
 }
 .navbar .navbar-nav .nav-link {
     font-size: 17px;
@@ -110,7 +110,7 @@ header.sticky.sticky-active [data-header-hover="light"] .widget-text i {
 }
 /* footer */
 footer .footer-logo img {
-    max-height: 26px;
+    max-height: 46px;
 }
 footer ul li {
     margin-bottom: 0;
